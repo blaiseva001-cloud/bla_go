@@ -2,7 +2,7 @@
 .env.*
 !.env.example
 .run/
-server
+/server
 vendor/
 tmp/
 *.log
